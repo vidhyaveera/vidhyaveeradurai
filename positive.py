@@ -1,5 +1,10 @@
-a=3
+a=int(input(""))
 if a>0:
     print("positive")
-else:
+elif a<0:
     print("negative")
+else:
+    print("zero")
+    
+    
+    
