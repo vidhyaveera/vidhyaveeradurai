@@ -1,0 +1,9 @@
+a=int(input(""))
+b=list(map(int,input("").split()))
+b.sort()
+if(a%2!=0):
+    m=a//2
+    print(b[m])
+else:
+    m=a//2
+    print((b[m-1]+b[m])/2)
