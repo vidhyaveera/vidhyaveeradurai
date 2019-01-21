@@ -1,4 +1,5 @@
 a=int(input(""))
+#vidhya
 count=0
 if a==0:
     count=1
