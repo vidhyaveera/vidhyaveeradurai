@@ -5,3 +5,4 @@ while(n>0):
     tot=tot+dig
     n=n//10
 print(tot)
+#ammu
